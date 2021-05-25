@@ -1,0 +1,22 @@
+.add-user {
+   margin-top: 30px;
+   text-align: center;
+}
+input {
+   width: 300px;
+   margin-left: 20px;
+   padding: 7px 0px 7px 5px;
+   margin-top: 5px;
+}
+.addBtn {
+   margin-top: 4px;
+   text-align: center;
+   width: 100px;
+}
+.addBtn:hover {
+   cursor: pointer;
+   border-radius: 4px;
+   color: white;
+   background-color: green;
+   font-weight: 900;
+}
